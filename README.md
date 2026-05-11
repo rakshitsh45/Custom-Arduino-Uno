@@ -25,7 +25,7 @@ Completed PCB design with zero DRC errors and warnings.
 
 ## 3D View
 ![3D](https://github.com/rakshitsh45/Custom-Arduino-Uno/blob/main/Screenshot%202026-05-11%20104842.png?raw=true)
-![3D](https://github.com/rakshitsh45/Custom-Arduino-Uno/blob/main/Screenshot%202026-05-11%20104842.png?raw=true)
+![3D]()
 
 ## Author
 Rakshit 
