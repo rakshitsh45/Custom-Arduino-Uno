@@ -1,2 +1,21 @@
-# Custom-Arduino-Uno
-Custom Arduino Uno compatible PCB designed using KiCad.
+# Custom Arduino Uno PCB
+
+A custom Arduino Uno compatible PCB designed using KiCad.
+
+## Features
+- ATmega328P-A microcontroller
+- CH340G USB-to-Serial converter
+- USB-A connector
+- AMS1117 voltage regulator
+- 16 MHz crystal oscillator
+- ISP programming header
+- Analog and digital headers
+
+## Software Used
+- KiCad
+
+## Project Status
+Completed PCB design with zero DRC errors and warnings.
+
+## Author
+Rakshit 
