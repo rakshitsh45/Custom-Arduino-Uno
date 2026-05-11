@@ -18,7 +18,7 @@ A custom Arduino Uno compatible PCB designed using KiCad.
 Completed PCB design with zero DRC errors and warnings.
 
 ## PCB Layout
-![PCB](PCB_IMAGE_LINK)
+![PCB](https://github.com/rakshitsh45/Custom-Arduino-Uno/blob/main/Screenshot%202026-05-11%20104817.png?raw=true)
 
 ## Schematic
 ![Schematic](https://github.com/rakshitsh45/Custom-Arduino-Uno/blob/main/Screenshot%202026-05-11%20104644.png?raw=true)
