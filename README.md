@@ -21,7 +21,7 @@ Completed PCB design with zero DRC errors and warnings.
 ![PCB](PCB_IMAGE_LINK)
 
 ## Schematic
-![Schematic]()
+![Schematic](https://github.com/rakshitsh45/Custom-Arduino-Uno/blob/main/Screenshot%202026-05-11%20104644.png?raw=true)
 
 ## 3D View
 ![3D](3D_IMAGE_LINK)
